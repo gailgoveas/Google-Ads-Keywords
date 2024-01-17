@@ -1,4 +1,4 @@
-## Project Title: Enhanced Keyword Generation for SEM Campaigns
+## Enhanced Keyword Generation for SEM Campaigns
 
 ### Introduction
 This project presents a Python-based approach to generate enhanced keywords for Search Engine Marketing (SEM) campaigns, specifically tailored for budget-conscious furniture retailers. The goal is to develop keywords that are not only cost-effective but also resonate with the promotional strategies and search behaviors of the target customers.
